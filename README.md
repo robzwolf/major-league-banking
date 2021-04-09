@@ -1,4 +1,5 @@
 # Major League Banking
+![Vercel](https://vercelbadge.vercel.app/api/robzwolf/major-league-banking)
 
 Hosted at https://major-league-banking.v.robbie.dev/
 
